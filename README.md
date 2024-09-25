@@ -1,10 +1,10 @@
 # Hi there, I'm Naincy Chourasia 👋
 
 - 🔭 I’m currently working on [WebDrive](https://github.com/Naina0812/WebDrive)
-- 🌱 I’m currently learning Tech Stack
+- 🌱 I’m currently learning new Techs
 - 💬 Ask me about Web Development (MERN, Django), Database Management, and Python
 - 📫 How to reach me: [nainaa1208@gmail.com](mailto:nainaa1208@gmail.com)
-- ⚡ Fun fact: I love coding and contributing to open-source projects
+
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
